@@ -1,6 +1,6 @@
 # KICKOFF - Football Match Predictions
 
-    KICKOFF is a project that uses machine learning to predict the outcome of Football matches for the World Cup 2022. The project uses Python, Scikit-learn, Random Forest, Pandas, and Numpy libraries to build the model.
+KICKOFF is a project that uses machine learning to predict the outcome of Football matches for the World Cup 2022. The project uses Python, Scikit-learn, Random Forest, Pandas, and Numpy libraries to build the model.
 
 ## Prerequisites
 Before running the project, you need to install the following packages:
