@@ -2,6 +2,14 @@
 
     KICKOFF is a project that uses machine learning to predict the outcome of Football matches for the World Cup 2022. The project uses Python, Scikit-learn, Random Forest, Pandas, and Numpy libraries to build the model.
 
+## Prerequisites
+Before running the project, you need to install the following packages:
+* Python 3
+* Scikit-learn
+* Pandas
+* Numpy
+
+
 ## Datasets
 The project uses the following three datasets:
 
@@ -14,7 +22,7 @@ matchs-schedule.csv: This dataset contains the schedule of the World Cup 2022. T
 ## Prediction
 The prediction for the winner of the World Cup 2022 made by KICKOFF is Argentina with an accuracy of 68%.
 
-File Description
+## File Description
 The project has the following file:
 
 KICKOFF-IS499-V1.3.ipynb: This file contains all the data cleaning and the model and the results. It includes the following sections:
@@ -28,12 +36,15 @@ Prediction and Results
 Usage
 To run the project, follow these steps:
 
-Clone the repository.
+## Clone the repository.
 Navigate to the project directory.
 Open the KICKOFF-IS499-V1.3.ipynb file in Jupyter Notebook or any other compatible environment.
 Run the cells in the notebook from top to bottom to clean the data, build the model, evaluate the model and predict the outcome of the matches.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Conclusion
+This project shows how the Random Forest algorithm can be used to predict the outcome of Football matches. The accuracy of the model can be improved by adding more features and using more advanced Machine Learning algorithms. However, it is important to note that predictions are based on historical data and may not always be accurate.
+
+
 
 
 
