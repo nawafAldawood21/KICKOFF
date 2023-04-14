@@ -44,7 +44,8 @@ KICKOFF-IS499-V1.3.ipynb: This file contains all the data cleaning and the model
 ## Conclusion
 This project shows how the Random Forest algorithm can be used to predict the outcome of Football matches. The accuracy of the model can be improved by adding more features and using more advanced Machine Learning algorithms. However, it is important to note that predictions are based on historical data and may not always be accurate.
 
-
+# Medium Post Link Is Here!!
+https://medium.com/@taygr102/kickoff-your-ultimate-guide-to-predicting-the-2022-world-cup-winner-3a9c35317c78
 
 
 
