@@ -1,7 +1,8 @@
-KICKOFF - Football Match Predictions
-KICKOFF is a project that uses machine learning to predict the outcome of Football matches for the World Cup 2022. The project uses Python, Scikit-learn, Random Forest, Pandas, and Numpy libraries to build the model.
+# KICKOFF - Football Match Predictions
 
-Datasets
+    KICKOFF is a project that uses machine learning to predict the outcome of Football matches for the World Cup 2022. The project uses Python, Scikit-learn, Random Forest, Pandas, and Numpy libraries to build the model.
+
+## Datasets
 The project uses the following three datasets:
 
 fifa_ranking_2022-10-06.csv: This dataset contains the latest FIFA rankings of teams before the World Cup 2022. The data is used to help predict the outcome of matches based on the current rankings of the teams.
@@ -10,7 +11,7 @@ international_matches.csv: This dataset contains all international matches playe
 
 matchs-schedule.csv: This dataset contains the schedule of the World Cup 2022. The data is used to predict the outcome of matches during the tournament.
 
-Prediction
+## Prediction
 The prediction for the winner of the World Cup 2022 made by KICKOFF is Argentina with an accuracy of 68%.
 
 File Description
